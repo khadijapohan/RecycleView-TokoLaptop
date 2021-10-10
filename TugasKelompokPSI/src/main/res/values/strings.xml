@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Laptop Second Malang</string>
+
+    <string-array name="list_laptop">
+        <item>Asus VivoBook 14 K413EA</item>
+        <item>Asus E210MA</item>
+        <item>Asus ZenBook Flip S UX371EA</item>
+        <item>Acer Aspire 5 SLIM A514-54</item>
+        <item>Lenovo IdeaPad 3 14IGL05</item>
+        <item>MSI Modern 14 B10RBSW</item>
+        <item>Lenovo Ideapad Slim 3 15 Ryzen 5 5500</item>
+        <item>Asus ROG G512LI-I565B6T Strix G</item>
+        <item>Asus Zenbook UX431FL</item>
+        <item>Dell Inspiron 7591</item>
+    </string-array>
+
+    <string-array name="spesifikasi">
+        <item>Intel® Core™ i5-1135G7 Processor 2.4 GHz (8M Cache, up to 4.2 GHz, 4 cores)</item>
+        <item>Intel® Celeron® N4020 Processor 1.1 GHz (4M Cache, up to 2.8 GHz)</item>
+        <item>Intel® Core™ i7-1165G7 Processor (12M Cache, up to 4.70 GHz, with IPU)</item>
+        <item>Intel® Core™ i3-1115G4 processor, 512 GB SSD PCIe Gen3, 8 Gb/s ,NVMe</item>
+        <item>Intel Celeron N4020 (2C / 2T, 1.1 / 2.8GHz, 4MB)</item>
+        <item>Intel® Core™ i5-10210U Processor (6M Cache, up to 4.10 GHz)</item>
+        <item>Ryzen 5 5500, RAM 8GB, STORAGE 256GB ssd, VEGA 7, DISPLAY 15.6FHD</item>
+        <item>Intel® Core™ i5-10300H Processor (8M Cache, up to 4.50 GHz)</item>
+        <item>Intel Core i7-10510U 1.8GHz (Turbo up to 4.9GHz), RAM 8GB</item>
+        <item>Intel® Core™ i7-9750H (12MB Cache, up to 4.5 GHz, 6 cores)</item>
+    </string-array>
+</resources>
